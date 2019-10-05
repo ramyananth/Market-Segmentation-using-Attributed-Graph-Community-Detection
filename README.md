@@ -1,1 +1,1 @@
- To implement a community detection algorithm for attributed graphs, find the relevant market segments, and evaluate the obtained segments via influence propagation
+To implement a community detection algorithm for attributed graphs, find the relevant market segments, and evaluate the obtained segments via influence propagation based on algorithm from the paper "Community detection based on structural and attribute similarities."
